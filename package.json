@@ -1,0 +1,23 @@
+{
+  "name": "cstevens-palindrome",
+  "version": "1.0.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chase-stevens/js-palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "Chase Stevens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chase-stevens/js-palindrome/issues"
+  },
+  "homepage": "https://github.com/chase-stevens/js-palindrome#readme"
+}
